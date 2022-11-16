@@ -1,0 +1,24 @@
+.login_container {
+  background-color: rgb(153, 142, 142);
+  width: 100%;
+  justify-content: center;
+  /* text-align: center; */
+}
+
+.login {
+  background: green;
+  width: 400px;
+  margin: 10px auto;
+  padding-left: 30px;
+  padding-bottom: 10px;
+}
+.google_button{
+  display: flex;
+  gap: 20px;
+}
+.social_button{
+  display: flex;
+  gap: 20px;
+  height: 60px;
+  background-color: aquamarine;
+}
